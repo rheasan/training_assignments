@@ -47,6 +47,14 @@ git checkout -b "feature1"
 git remote add origin git@github.com:rheasan/chip8.git
 ```
 
+### Q14. Fork a repository on GitHub and clone it to your local machine.
+### Q15. Create a new branch on your fork, make changes, and open a pull request to the original repository.
+![Q14](./screenshots/q14.png)
+![Q15](./screenshots/q15_pull.png)
+
+### Q16. Comment on a PR and suggest improvements
+![Q16](./screenshots/q16_comment.png)
+
 ### Q17. Create a Git alias for the command `git log --oneline` named `gitlol`.
 ```bash
 git config --global alias.lol 'log --oneline'
